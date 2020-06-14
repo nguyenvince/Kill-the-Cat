@@ -1,7 +1,7 @@
 Kill the Cats
 ----------------------
 
-Kill the Cats is a mini game, based on the famous franchise Plants vs. Zombies, which puts players in a battle with stray cats. Kill the Cats is inspired by real events at New York University Abu Dhabi, where so-called campus cats attempted to steal people's food near the dining hall. To prevent this CATastrophe, players must collect coins and purchase students (who throw plates at the cats) or water sprayers (which chase the cat away for a while).<br>
+*Kill the Cats* is a mini game, based on the famous franchise Plants vs. Zombies, which puts players in a battle with stray cats. *Kill the Cats* is inspired by real events at New York University Abu Dhabi, where so-called campus cats attempted to steal people's food near the dining hall. To prevent this CATastrophe, players must collect coins and purchase students (who throw plates at the cats) or water sprayers (which chase the cat away for a while).<br>
 
 Demo: https://youtu.be/E4GlmFgVljI
 ------
